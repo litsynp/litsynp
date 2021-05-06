@@ -76,7 +76,7 @@
 
 <div>&nbsp;</div>
 
-<h3 align="center">📫 How to reach me via ...</h3>
+<h3 align="center">📫 You can reach me via ...</h3>
 
 <p align="center">
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
