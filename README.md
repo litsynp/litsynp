@@ -1,11 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=litsynp&fontSize=90" />
 
-<p align="center" style="font-weight: bold; font-size: 1.5rem;">Hello there 👋 , this is litsynp (SJ Lee)</p>
+<h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , this is litsynp (SJ Lee)</h3>
 
-<div>&nbsp;</div>
-
-<p align="center" style="font-weight: bold; font-size: 1.25rem;">🌱 I’m currently learning ...</p>
-<p align="center" style="font-weight: bold;">Backend Development and Computer Vision</p>
+<h3 align="center">🌱 I’m currently learning ...</h3>
+<p align="center">Backend Development and Computer Vision</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -15,8 +13,8 @@
 
 <div>&nbsp;</div>
 
-<p align="center" style="font-weight: bold; font-size: 1.25rem;"> 🔭 I’m currently working on ...</p>
-<p align="center" style="font-weight: bold;">Fullstack Web Development</p>
+<h3 align="center"> 🔭 I’m currently working on ...</h3>
+<p align="center">Fullstack Web Development</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -42,7 +40,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center" style="font-weight: bold; font-size: 1.25rem;">📚 I've previously used ...</p>
+<h3 align="center">📚 I've previously used ...</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -78,7 +76,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center" style="font-weight: bold; font-size: 1.25rem;">📫 How to reach me via ...</p>
+<h3 align="center">📫 How to reach me via ...</h3>
 
 <p align="center">
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
