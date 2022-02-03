@@ -2,7 +2,7 @@
 
 <h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , I'm SJ!</h3>
 
-<h3 align="center">💻 I’m interested in Backend Development and Computer Vision.</h3>
+<h3 align="center">🔍 I’m interested in Backend Development and Computer Vision.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -12,7 +12,7 @@
 
 <div>&nbsp;</div>
 
-<h3 align="center">🔍 I have experience with:</h3>
+<h3 align="center">💻 I have experience with:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
