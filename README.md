@@ -2,12 +2,12 @@
 
 <h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , I'm SJ!</h3>
 
-<h3 align="center">🔍 I’m interested in Backend Development and Computer Vision.</h3>
+<h3 align="center">🔍 I’m interested in Backend Development.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
 </p>
 
 <div>&nbsp;</div>
@@ -30,10 +30,19 @@
 
 <div>&nbsp;</div>
 
+<h3 align="center">👨🏻‍💻 Links about me:</h3>
+
+<p align="center">
+<a href="https://blog.litsynp.com"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white&link=https://blog.litsynp.com"/></a>
+<a href="https://docs.litsynp.com"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=GitBook&logoColor=white&link=https://docs.litsynp.com"/></a>
+</p>
+
+<div>&nbsp;</div>
+
 <h3 align="center">📫 You can reach me via:</h3>
 
 <p align="center">
-<a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/>
+<a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer" />
