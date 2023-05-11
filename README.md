@@ -30,6 +30,14 @@
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=Elastic-Stack&logoColor=white"/>
 </p>
 
+<h4 align="center">🔥 Here are my current interests:</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
+</p>
+
 <div>&nbsp;</div>
 
 <h4 align="center">👨🏻‍💻 Links about me:</h4>
