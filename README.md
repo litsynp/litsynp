@@ -43,7 +43,7 @@
 <p align="center"><b>👨🏻‍💻 Links about me:</b></p>
 
 <p align="center">
-<a href="https://blog.litsynp.com"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white&link=https://blog.litsynp.com"/></a>
+<a href="https://blog.litsynp.com"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://docs.litsynp.com"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=GitBook&logoColor=white&link=https://docs.litsynp.com"/></a>
 <a href="https://www.linkedin.com/in/litsynp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/litsynp"/></a>
 </p>
