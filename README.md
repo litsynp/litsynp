@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=litsynp&fontSize=40&color=gradient&customColorList=2&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:2C3E50,100:16A085&animation=fadeIn)
 
 <p align="center" style="font-size: 1.5rem;"><b>Hello there 👋 , I'm SJ!</b></p>
 
@@ -46,4 +46,4 @@
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=100&section=header&color=gradient&customColorList=2)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C3E50,100:16A085)
