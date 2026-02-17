@@ -2,11 +2,16 @@
 
 <p align="center" style="font-size: 1.5rem;"><b>Hello there 👋 , I'm SJ!</b></p>
 
-<p align="center"><b>I’m interested in Backend Development.</b></p>
+<p align="center">I simplify, optimize, and automate.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=Koa&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
