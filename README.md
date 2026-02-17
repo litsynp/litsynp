@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 1.5rem;"><b>Hello there 👋 , I'm SJ!</b></p>
 
-<p align="center"><b>🔍 I’m interested in Backend Development.</b></p>
+<p align="center"><b>I’m interested in Backend Development.</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -16,7 +16,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center"><b>💻 I have experience with:</b></p>
+<p align="center"><b>I have experience with:</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=Elastic-Stack&logoColor=white"/>
 </p>
 
-<p align="center"><b>🔥 Here are my current interests:</b></p>
+<p align="center"><b>Here are my current interests:</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -40,7 +40,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center"><b>👨🏻‍💻 Links about me:</b></p>
+<p align="center"><b>Links about me:</b></p>
 
 <p align="center">
 <a href="https://blog.litsynp.com"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
@@ -50,7 +50,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center"><b>📫 You can reach me via:</b></p>
+<p align="center"><b>You can reach me via:</b></p>
 
 <p align="center">
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
