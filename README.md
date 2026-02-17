@@ -56,8 +56,4 @@
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flitsynp%2Fhit-counter&count_bg=%235793A7&title_bg=%23141414&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
-</p>
-
 ![header](https://capsule-render.vercel.app/api?type=rect&height=100&section=header&color=gradient&customColorList=2)
