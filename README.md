@@ -13,15 +13,10 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-</p>
 
 <div>&nbsp;</div>
 
-<p align="center"><b>I have experience with:</b></p>
+<p align="center"><b>Experience</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -35,7 +30,7 @@
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=Elastic-Stack&logoColor=white"/>
 </p>
 
-<p align="center"><b>Here are my current interests:</b></p>
+<p align="center"><b>Current Interests</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -45,7 +40,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center"><b>Links about me:</b></p>
+<p align="center"><b>Links</b></p>
 
 <p align="center">
 <a href="https://blog.litsynp.com"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
@@ -55,7 +50,7 @@
 
 <div>&nbsp;</div>
 
-<p align="center"><b>You can reach me via:</b></p>
+<p align="center"><b>Contact</b></p>
 
 <p align="center">
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/></a>
